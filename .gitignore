@@ -2,6 +2,7 @@
 .git/
 dev/
 idea/
+idea/*
 
 /dev
 /dev/*
