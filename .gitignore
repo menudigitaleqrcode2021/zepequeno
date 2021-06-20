@@ -1,7 +1,10 @@
-dev/
-/dev
-/dev/*
-dev/*
-
-
 *.code-workspace
+
+dev/
+
+
+##
+#/dev
+#/dev/*
+#dev/*
+##
