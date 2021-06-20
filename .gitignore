@@ -1,10 +1,17 @@
-*.code-workspace
+## CARPETAS ##
 
+.git 
 dev/
 
+## ARCHIVOS ##
+
+*.code-workspace
+.gitignore
 
 ##
 #/dev
 #/dev/*
 #dev/*
-##
+
+## COMANDO PARA AJUSTAR LA CACHE
+## git rm --cache -r
