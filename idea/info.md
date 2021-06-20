@@ -23,8 +23,7 @@ vscode://vscode.github-authentication/did-authenticate?windowid=1&code=672e74042
 ## PUSH
 
     git status
-    git add *
-    git add -A -f
+    git add -u .
     git commit -m "update"
     git branch -M main
     git push origin main
