@@ -1,0 +1,17 @@
+## CARPETAS ##
+.git/
+dev/
+idea/
+
+/dev
+/dev/*
+dev/*
+
+## ARCHIVOS ##
+
+*.code-workspace
+.gitattributes
+.gitignore
+
+## para limpiar la cache
+## git rm --cache -r .
