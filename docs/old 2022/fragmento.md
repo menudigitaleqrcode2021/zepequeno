@@ -199,3 +199,72 @@
       <!--                           fine Special Drinks                           -->
       <!-- ----------------------------------------------------------------------- -->
 
+      <table>
+        <caption>LONG DRINKS</caption>
+        <tbody>
+          <tr>
+            <td>
+              <div class="nominativo"> LONG DRINKS </div>
+              <div class="ingredienti"> </div>
+            </td>
+            <td class="price"> € 6,00 </td>
+          </tr>
+
+          <tr>
+            <td>
+              <div class="nominativo"> LONG DRINKS SpiritsSpecial </div>
+              <div class="ingredienti"> </div>
+            </td>
+            <td class="price"> € 8,00 </td>
+          </tr>
+
+        </tbody>
+      </table>
+
+
+
+      <!-- ----------------------------------------------------------------------- -->
+      <!--                               Analcolici                                -->
+      <!-- ----------------------------------------------------------------------- -->
+      <table>
+        <caption>Analcolici</caption>
+        <tbody>
+          <tr>
+            <td>
+              <div class="nominativo"> Sherley Tample </div>
+              <div class="ingredienti"> ginger ale, granatina, succo di lime, soda </div>
+            </td>
+            <td class="price"> € 5,00 </td>
+          </tr>
+
+          <tr>
+            <td>
+              <div class="nominativo"> OrangeBerry </div>
+              <div class="ingredienti"> fanta, sprite, succo d'arancia, fragola mix </div>
+            </td>
+            <td class="price"> € 5,00 </td>
+          </tr>
+
+          <tr>
+            <td>
+              <div class="nominativo"> Almavita </div>
+              <div class="ingredienti"> succo d'ananas, succo d'arancia, sweet&sour, estratto di more, cannella, soda </div>
+            </td>
+            <td class="price"> € 5,00 </td>
+          </tr>
+
+          <tr>
+            <td>
+              <div class="nominativo"> SMOOTHIES & CENTRIFUGATI </div>
+              <div class="ingredienti"> in base alla disponibilità e alla stagionalità
+                delle materie prime </div>
+            </td>
+            <td class="price"> € 5,00 </td>
+          </tr>
+
+        </tbody>
+      </table>
+      
+      <!-- ----------------------------------------------------------------------- -->
+      <!--                             Fine Analcolici                             -->
+      <!-- ----------------------------------------------------------------------- -->
